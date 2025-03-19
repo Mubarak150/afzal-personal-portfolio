@@ -41,7 +41,7 @@ function App() {
       <main>
         {/* HOME */}
         <BannerMain />
-        <BannerScroll />
+        <BannerScroll link="#about" />
 
         {/* ABOUT */}
         <About />
